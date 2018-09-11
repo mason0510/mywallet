@@ -1,0 +1,2 @@
+# mywallet
+eos钱包
