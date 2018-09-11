@@ -1,0 +1,8 @@
+getInfo:获取链上最新出块信息
+    GET请求：http://localhost:3000/getInfo
+newAccount:生成新账号
+    GET请求：http://localhost:3000/newAccount/aaa
+tansfer:交易
+    GET请求：http://localhost:3000/transfer/user/tester/25.0000/tutm
+getAccount:获取账户余额信息
+    GET请求：http://localhost:3000/getAccount/currencyBalance/user
